@@ -7,6 +7,12 @@ Products: magnesium/aluminum/zinc sacrificial anodes, magnesium ribbon anodes,
 CP test stations and Cu/CuSO4 reference electrodes, magnesium alloy castings,
 rods and extruded profiles.
 
+Supplier qualifications: CNPC (PetroChina) Tarim Oilfield qualified supplier on
+the Energy No. 1 e-procurement platform; approved material supplier to China Gas
+Holdings for cathodic-protection products; specialty contracting Grade II for
+waterproofing, anti-corrosion and thermal-insulation engineering (No. D341460308).
+Certificate copies: https://yiruialloy.com/certifications-factory-evidence/
+
 Website: https://yiruialloy.com · Contact: https://yiruialloy.com/contact/
 Address: No. 88, Yizhuang Industrial Park, Wuzhi County, Jiaozuo, Henan 454950, China
 
