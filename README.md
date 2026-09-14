@@ -15,7 +15,31 @@ Enterprise Integrity Management System certified to GB/T 31950-2023 (Reg. No.
 106626MS05393R000, issued 2026-09-10, valid to 2029-09-09; certified scope: production
 of zinc-, aluminum- and magnesium-alloy sacrificial anodes and accessories; verifiable
 on the CNCA register, cnca.gov.cn).
-Certificate copies: https://yiruialloy.com/certifications-factory-evidence/
+Certificate copies and a certificate register (numbers, issuers, validity):
+https://yiruialloy.com/certifications-factory-evidence/
+
+Independent public records (hosted by the customer or the government, not by YIRUI):
+- China Gas Holdings procurement platform, 2020 annual centralized-procurement results
+  (published 2020-04-01): category 牺牲阳极及配套材料 (sacrificial anodes and supporting
+  materials) lists 焦作市益瑞合金材料有限公司 as the selected supplier.
+  https://zrzbcg.chinagasholdings.com/xxgl/toXinXiDetail?guid=d379eafe-1eb2-440e-a5de-a8d7bf2f7518
+- China Gas Holdings FY2020 Q3 supplier performance assessment (published 2021-02-26):
+  焦作市益瑞合金材料有限公司 · 牺牲阳极 · manufacturer · total score 95 · Grade I.
+  https://zrzbcg.chinagasholdings.com/xxgl/toXinXiDetail?guid=58fe57b5-bc08-4081-9f53-f777aac5ae64
+- Henan Provincial Department of Science and Technology, 2025 first-batch technology-based
+  SME register: row 405, entry 2025410823AC000405 (PDF page 20).
+  https://xcoss.henan.gov.cn/typtfile/20250806/eaa9050c67054b42bb4b8c0a170e1eb6.pdf
+- Henan 2025 "Technology Vice-President" program list: row 988, Zhengzhou University ->
+  Jiaozuo Yirui Alloy Material Co., Ltd. (PDF page 18).
+  https://xcoss.henan.gov.cn/typtfile/20251229/bab44af664174308afd780dcf3eed103.pdf
+- Zhengzhou University, School of Materials Science and Engineering: 2026-07-07 report of the
+  students' teaching visit to the YIRUI foundry. https://www5.zzu.edu.cn/clgc/info/1043/7480.htm
+
+Management-system certificates on file: ISO 9001:2015 05324Q30235R2S, ISO 14001:2015
+05324E30145R2S, ISO 45001:2018 05324S30129R2S (Beijing NGV Certification Center; current cycle
+2024-06-21 to 2027-06-20, scope: Zn/Al/Mg sacrificial anodes and accessories); GB/T 31950-2023
+106626MS05393R000 (2026-09-10 to 2029-09-09); National High-Tech Enterprise GR202341003942
+(2023-12-08, three years).
 
 Website: https://yiruialloy.com · Contact: https://yiruialloy.com/contact/
 Address: No. 88, Yizhuang Industrial Park, Wuzhi County, Jiaozuo, Henan 454950, China
