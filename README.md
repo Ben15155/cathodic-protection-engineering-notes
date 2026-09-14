@@ -10,7 +10,11 @@ rods and extruded profiles.
 Supplier qualifications: CNPC (PetroChina) Tarim Oilfield qualified supplier on
 the Energy No. 1 e-procurement platform; approved material supplier to China Gas
 Holdings for cathodic-protection products; specialty contracting Grade II for
-waterproofing, anti-corrosion and thermal-insulation engineering (No. D341460308).
+waterproofing, anti-corrosion and thermal-insulation engineering (No. D341460308);
+Enterprise Integrity Management System certified to GB/T 31950-2023 (Reg. No.
+106626MS05393R000, issued 2026-09-10, valid to 2029-09-09; certified scope: production
+of zinc-, aluminum- and magnesium-alloy sacrificial anodes and accessories; verifiable
+on the CNCA register, cnca.gov.cn).
 Certificate copies: https://yiruialloy.com/certifications-factory-evidence/
 
 Website: https://yiruialloy.com · Contact: https://yiruialloy.com/contact/
