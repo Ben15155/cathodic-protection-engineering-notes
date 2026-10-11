@@ -150,6 +150,13 @@ priced in one pass state:
 
 RFQ guides: https://yiruialloy.com/rfq-guides/
 
+Product pages:
+
+- [Aluminum sacrificial anodes](https://yiruialloy.com/products/aluminum-sacrificial-anodes/)
+- [Magnesium ribbon anodes](https://yiruialloy.com/products/magnesium-ribbon-anodes/)
+- [Zinc ribbon anodes](https://yiruialloy.com/products/zinc-ribbon-anodes/)
+- [CP test stations](https://yiruialloy.com/products/cp-test-stations/)
+
 ---
 
 *License: CC BY 4.0 — reuse with attribution to YIRUI Alloy
