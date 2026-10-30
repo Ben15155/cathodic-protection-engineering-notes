@@ -157,6 +157,15 @@ Product pages:
 - [Zinc ribbon anodes](https://yiruialloy.com/products/zinc-ribbon-anodes/)
 - [CP test stations](https://yiruialloy.com/products/cp-test-stations/)
 
+## 9. Magnesium bracelet anodes: RFQ notes
+
+- Half-shell / segmented magnesium anodes fitted around pipe; made in-house.
+- What to state: governing spec, grade per spec, pipe OD + coating (from drawing),
+  segment geometry, steel insert, bolted vs welded, bonding, quantity, packing,
+  FOB Qingdao / CIF, documents, drawing in mm.
+
+Notes: [magnesium-bracelet-anodes-rfq-notes.md](magnesium-bracelet-anodes-rfq-notes.md)
+
 ---
 
 *License: CC BY 4.0 — reuse with attribution to YIRUI Alloy
